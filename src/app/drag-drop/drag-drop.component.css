@@ -1,0 +1,13 @@
+.dragArea{
+    font-size: large;
+    width: 400px;
+    height: 400px;
+    background-color: rgb(244, 246, 246);
+    border: 3px dashed grey;
+}
+
+.dragArea img{
+    width: 100% !important;
+    height: 100% !important;
+    object-fit: cover !important;
+}
